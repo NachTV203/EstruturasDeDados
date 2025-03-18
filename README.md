@@ -3,12 +3,19 @@
 # Alunos responsáveis:
 
 **Ana Beatryz Nogueira Santos**
+
 **Beatriz Nevis Miranda**
+
 **Bernardo Lusardo da Silva Mesquita**
+
 **Jaiza Michelle Moreira de Carvalho**
+
 **Kaynã Barbosa de Miranda**
+
 **Rafael Junio Azevedo Souza**
+
 **Sammuel Heythor Rodrigues dos Santos**
+
 **Victor Alves Moreira**
 
 
