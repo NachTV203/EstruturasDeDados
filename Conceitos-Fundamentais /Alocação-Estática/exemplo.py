@@ -1,31 +1,22 @@
-#include <stdio.h>
+# Variável global (alocação estática)
+a = 0
 
-int a = 0 ;  // variável global, aloc. estática
+def incrementa():
+    global a  # Referência à variável global
+    b = 0  # Variável local (alocação automática)
+    
+    # Variável local com comportamento de alocação estática
+    if not hasattr(incrementa, "c"):
+        incrementa.c = 0  # Inicializa apenas uma vez
+    
+    print(f"a: {a}, b: {b}, c: {incrementa.c}")
+    
+    a += 1
+    b += 1
+    incrementa.c += 1
 
-void incrementa(void)
-{
-          int b = 0 ; // variável local, aloc. automática
-   static int c = 0 ; // variável local, aloc. estática
-   
-   printf ("a: %d, b: %d, c: %d\n", a, b, c) ;
-   a++ ;
-   b++ ;
-   c++ ;
-}
+# Loop principal
+for _ in range(5):
+    incrementa()
 
-int main(void)
-{
-   int i ;
-  
-   for (i = 0; i < 5; i++)
-      incrementa() ;
-
-   return 0 ;
-}
-A execução desse código gera a seguinte saída:
-
-  a: 0, b: 0, c: 0
-  a: 1, b: 0, c: 1
-  a: 2, b: 0, c: 2
-  a: 3, b: 0, c: 3
-  a: 4, b: 0, c: 4
+#codigo criado utilizando a ide Cursor Ai
