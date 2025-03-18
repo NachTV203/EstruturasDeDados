@@ -6,3 +6,5 @@ A alocação estática ocorre com variáveis globais (alocadas fora de funções
 
 A alocação estática ocorre quando são declaradas variáveis globais ou estáticas; geralmente alocadas em Data.
 
+Fonte: Universidade Federal do paraná, https://www.inf.ufpr.br/hexsel/ci067/10_aloc.html 
+
