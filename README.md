@@ -40,3 +40,5 @@ Ao final da disciplina, esperamos ser capazes de criar novas estruturas de dados
 **Universidade Federal do paraná:** https://www.inf.ufpr.br/hexsel/ci067/10_aloc.html
 
 **Medium:** https://medium.com/@connicet/runtime-vs-compile-time-exploring-memory-allocation-in-python-32bd12acc918 (site traduzido para o português)
+
+**Universidade de Brasília (UNB):** https://sae.unb.br/cae/conteudo/unbfga/cb/new_alocacaodinamica.html
