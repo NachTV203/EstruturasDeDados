@@ -1,5 +1,17 @@
 # Estruturas de Dados 1
 
+# Alunos responsáveis:
+
+**Ana Beatryz Nogueira Santos**
+**Beatriz Nevis Miranda**
+**Bernardo Lusardo da Silva Mesquita**
+**Jaiza Michelle Moreira de Carvalho**
+**Kaynã Barbosa de Miranda**
+**Rafael Junio Azevedo Souza**
+**Sammuel Heythor Rodrigues dos Santos**
+**Victor Alves Moreira**
+
+
 # Introdução
 
 A disciplina de Estruturas de Dados tem como objetivo capacitar os alunos a compreender, implementar e utilizar diferentes estruturas de dados, fundamentais para o desenvolvimento de soluções computacionais eficientes. 
