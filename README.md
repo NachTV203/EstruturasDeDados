@@ -32,4 +32,5 @@ Ao final da disciplina, esperamos ser capazes de criar novas estruturas de dados
 # Fontes de pesquisa
 
 **Alura:** https://www.alura.com.br/artigos/estruturas-de-dados-introducao?srsltid=AfmBOopCKt1-D_aPiMoGlngXog9yZ6e0cH8NYARU2xcXDZ3hOak_iYve
+
 **Chat GPT:** https://chatgpt.com/
