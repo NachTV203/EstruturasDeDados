@@ -2,10 +2,15 @@
 
 **Alocação dinâmica de memória em tempo de execução:**
 
-**Alocação dinâmica** de memória é o processo de alocação de memória para objetos em tempo de execução, em oposição ao tempo de compilação. Ela permite alocação flexível de memória com base nas necessidades do programa, permitindo que estruturas de dados e objetos cresçam ou diminuam dinamicamente.
+**Alocação dinâmica** é o processo de solicitar e utilizar memória durante a execução de um programa. Ela é utilizada para que um programa em python utilize apenas a memória necessária para sua execução, sem desperdícios de memória.
 
-Em Python, a alocação dinâmica de memória é gerenciada principalmente por mecanismos como coleta de lixo e contagem de referências. O sistema de gerenciamento de memória do Python manipula automaticamente a alocação e a desalocação de memória no heap, onde residem objetos alocados dinamicamente.
+A área de memória disponível e ainda não utilizada é conhecida como HEAP e indica a quantidade de memória livre ou disponível para uso do computador.
 
-Quando um objeto é criado em Python, a memória é alocada dinamicamente do heap para acomodar os dados e atributos do objeto. A contagem de referência para o objeto é incrementada para rastrear o número de referências a ele. Enquanto houver referências ao objeto, a memória permanece alocada.
+Um exemplo de desperdício de memória pode ser identificado quando um vetor de 500 posições é declarado e não se sabe realmente se todas estas posições são necessárias à solução desejada. Com o uso dos recursos corretos para alocação dinâmica as áreas de memória usadas para guardar valores serão reservadas exatamente no tamanho que seja necessário para o programa em execução.
 
-Fonte: https://medium.com/@connicet/runtime-vs-compile-time-exploring-memory-allocation-in-python-32bd12acc918
+Sendo assim, a alocação dinâmica de memória deve ser utilizada quando não se sabe, por algum motivo ou aplicação, quanto espaço de memória será necessário para o armazenamento de um valor.
+
+A alocação dinâmica permite ao programador criar variáveis e estruturas de dados em tempo de execução, ou seja, alocar memória para novo armazenamento de dado quando o programa está sendo executado.
+
+
+Fonte: Universidade de Brasília (UNB)
