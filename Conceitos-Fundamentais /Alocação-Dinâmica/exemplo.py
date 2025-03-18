@@ -1,22 +1,15 @@
-n = int(input("Digite o número de elementos: "))
-
-def create_dynamic_list():
-    global n  
-    dynamic_list = []  
-
+def criar_lista_dinamica(n):
     
-    if not hasattr(create_dynamic_list, "count"):
-        create_dynamic_list.count = 0 
-
+    lista_dinamica = []
+    
     for i in range(n):
-        dynamic_list.append(i)
+        lista_dinamica.append(i)
+        
+    return lista_dinamica
 
-    print(f"Execução {create_dynamic_list.count + 1}: Lista criada com {len(dynamic_list)} elementos")
-    
-    create_dynamic_list.count += 1 
+# Tempo de execução (Runtime)
+n = int(input("Digite o número de elementos: "))
+minha_lista = criar_lista_dinamica(n)
 
-    return dynamic_list
-
-for _ in range(3):
-    my_list = create_dynamic_list()
-  
+# Tempo de compilação (Compile Time)
+print("Tamanho da lista:", len(minha_lista))
