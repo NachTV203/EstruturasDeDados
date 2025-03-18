@@ -2,7 +2,7 @@
 
 As estruturas de dados são fundamentais na programação, permitindo armazenar, organizar e manipular dados de forma eficiente. Elas influenciam diretamente o desempenho e a eficácia dos algoritmos em um sistema.
 
-**Principais Estruturas de Dados**
+# Principais Estruturas de Dados
 
 **Array (Vetor)**: Lista ordenada de elementos, acessíveis por índices.
 
@@ -18,7 +18,7 @@ As estruturas de dados são fundamentais na programação, permitindo armazenar,
 
 Cada uma dessas estruturas possui características específicas que as tornam mais adequadas para determinadas situações e requisitos de desempenho.
 
-**Importância das Estruturas de Dados**
+# Importância das Estruturas de Dados
 
 Compreender e implementar corretamente as estruturas de dados é essencial para desenvolver sistemas eficientes e escaláveis. Elas são a base para a criação de algoritmos robustos e para a solução eficaz de problemas computacionais.
 
