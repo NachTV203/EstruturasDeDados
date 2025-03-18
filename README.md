@@ -1,26 +1,15 @@
-# Estruturas de Dados: Fundamentos Essenciais para Desenvolvedores
+# Estruturas de Dados 1
 
-As estruturas de dados são métodos sistemáticos para organizar e manipular dados em um computador, otimizando o acesso e uso eficientes. Elas funcionam como ferramentas para desenvolvedores lidarem com conjuntos de dados, garantindo que a informação certa esteja disponível no momento certo.
+# Introdução
 
-# Principais Estruturas de Dados
+A disciplina de Estruturas de Dados tem como objetivo capacitar os alunos a compreender, implementar e utilizar diferentes estruturas de dados, fundamentais para o desenvolvimento de soluções computacionais eficientes. 
 
-**Array (Vetor)**: Lista ordenada de elementos, acessíveis por índices.
+ Ao longo do curso, os estudantes serão familiarizados com a modelagem e implementação dessas estruturas, além dos algoritmos necessários para gerenciá-las, levando em consideração aspectos de economia de memória e desempenho. 
 
-**Lista Ligada**: Conjunto de elementos onde cada um aponta para o próximo, permitindo inserções e remoções eficientes.
+Ao final da disciplina, espera-se que os alunos sejam capazes de criar novas estruturas de dados, além de possuir conhecimento das estruturas básicas e de algoritmos clássicos para gerenciá-las ou resolver problemas específicos. 
 
-**Pilha (Stack)**: Segue o princípio LIFO (Last In, First Out), onde o último elemento inserido é o primeiro a ser removido.
+ Essa base é essencial para o desenvolvimento de programas de computador robustos e eficientes, permitindo a construção de soluções que atendam às demandas do mercado e da sociedade.
 
-**Fila (Queue)**: Segue o princípio FIFO (First In, First Out), onde o primeiro elemento inserido é o primeiro a ser removido.
+# Fontes de pesquisa
 
-**Árvore (Tree)**: Estrutura hierárquica com elementos chamados de nós, onde cada nó pode ter filhos, formando uma estrutura em forma de árvore.
-
-**Grafo (Graph)**: Conjunto de nós conectados por arestas, representando relações complexas entre elementos.
-
-Cada uma dessas estruturas possui características específicas que as tornam mais adequadas para determinadas situações e requisitos de desempenho.
-
-# Importância das Estruturas de Dados
-
-Compreender e implementar corretamente as estruturas de dados é essencial para desenvolver sistemas eficientes e escaláveis. Elas são a base para a criação de algoritmos robustos e para a solução eficaz de problemas computacionais.
-
-Para aprofundar seus conhecimentos, confira os artigos da Alura sobre https://www.alura.com.br/artigos/estruturas-de-dados-introducao?srsltid=AfmBOopCKt1-D_aPiMoGlngXog9yZ6e0cH8NYARU2xcXDZ3hOak_iYve
-
+**Alura:** https://www.alura.com.br/artigos/estruturas-de-dados-introducao?srsltid=AfmBOopCKt1-D_aPiMoGlngXog9yZ6e0cH8NYARU2xcXDZ3hOak_iYve
