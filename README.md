@@ -36,3 +36,5 @@ Ao final da disciplina, esperamos ser capazes de criar novas estruturas de dados
 **Chat GPT:** https://chatgpt.com/
 
 **UFSM:** https://www.ufsm.br/pet/sistemas-de-informacao/2020/04/01/entendendo-listas-pilhas-e-filas
+
+**Universidade Federal do paraná:** https://www.inf.ufpr.br/hexsel/ci067/10_aloc.html
