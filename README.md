@@ -5,10 +5,15 @@ As estruturas de dados são fundamentais na programação, permitindo armazenar,
 **Principais Estruturas de Dados**
 
 **Array (Vetor)**: Lista ordenada de elementos, acessíveis por índices.
+
 **Lista Ligada**: Conjunto de elementos onde cada um aponta para o próximo, permitindo inserções e remoções eficientes.
+
 **Pilha (Stack)**: Segue o princípio LIFO (Last In, First Out), onde o último elemento inserido é o primeiro a ser removido.
+
 **Fila (Queue)**: Segue o princípio FIFO (First In, First Out), onde o primeiro elemento inserido é o primeiro a ser removido.
+
 **Árvore (Tree)**: Estrutura hierárquica com elementos chamados de nós, onde cada nó pode ter filhos, formando uma estrutura em forma de árvore.
+
 **Grafo (Graph)**: Conjunto de nós conectados por arestas, representando relações complexas entre elementos.
 
 Cada uma dessas estruturas possui características específicas que as tornam mais adequadas para determinadas situações e requisitos de desempenho.
