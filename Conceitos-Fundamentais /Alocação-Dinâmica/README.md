@@ -13,4 +13,4 @@ Sendo assim, a alocação dinâmica de memória deve ser utilizada quando não s
 A alocação dinâmica permite ao programador criar variáveis e estruturas de dados em tempo de execução, ou seja, alocar memória para novo armazenamento de dado quando o programa está sendo executado.
 
 
-Fonte: Universidade de Brasília (UNB)
+Fonte: Universidade de Brasília (UNB), https://sae.unb.br/cae/conteudo/unbfga/cb/new_alocacaodinamica.html
