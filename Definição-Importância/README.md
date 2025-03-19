@@ -1,22 +1,43 @@
-# Estruturas de dados lineares
+# Estruturas de Dados Lineares  
 
-Estruturas de dados lineares são basicamente formas de organizar os dados em uma sequência, onde cada dado tem um que vem antes e outro que vem depois. É como se fosse uma fila: você entra atrás e vai saindo a medida que vai avançando, o bom dessas estruturas é que você pode acessar qualquer dado começando de um ponto e indo até o outro de maneira bem tranquila e simples.
-aqui temos alguns exemplos de estruturas lineares:
+As **estruturas de dados lineares** são formas de organizar os dados em uma **sequência**, onde **cada elemento tem um anterior e um posterior**.  
 
-**Listas**: É como uma lista de compras. Você pode acessar qualquer item pelo seu número na lista, igual ao índice de um item.
+É como uma **fila**: você entra no final e vai saindo à medida que avança. O grande benefício dessas estruturas é que você pode **acessar qualquer dado** partindo de um ponto e seguindo até outro de forma **simples e eficiente**.  
 
-**Filas**: Aqui quem chega primeiro é o primeiro a ser atendido, igual a uma fila de espera em um banco.
+## 📌 Exemplos de Estruturas Lineares  
 
-**Pilhas**: Ao contrário das filas quem entra por último é o primeiro a sair. Imagine uma pilha de livros onde você pega sempre o livro de cima.
+- **Listas**: Funcionam como uma **lista de compras**, onde cada item pode ser acessado pelo seu **índice**.  
+- **Filas**: Seguem a regra **FIFO** (*First In, First Out*), onde **quem chega primeiro é atendido primeiro**, como em uma **fila de banco**.  
+- **Pilhas**: Seguem a regra **LIFO** (*Last In, First Out*), onde **o último a entrar é o primeiro a sair**, como uma **pilha de livros**, onde você sempre pega o livro do topo.  
+- **Matrizes**: São como **tabelas**, organizadas em **linhas e colunas**, úteis para armazenar dados em formato de **grade**.  
 
-**Matrizes**: São como tabelas, com linhas e colunas, usadas quando você tem dados bem organizados em formato de grade.
+### 🛑 Limitações das Estruturas Lineares  
+Embora **fáceis de usar**, essas estruturas podem ter algumas **limitações**:  
+- Adicionar ou remover elementos pode ser **demorado** dependendo da posição.  
+- O consumo de **memória** pode ser elevado para **listas muito grandes**.  
+- É essencial escolher a **estrutura adequada** para cada tipo de problema.  
 
-Essas estruturas são bem fáceis de usar e ajudam bastante, mas elas têm algumas limitações. Por exemplo: quando você precisa adicionar ou remover dados em alguns casos pode ser mais demorado ou consumir mais memória, principalmente quando a lista é muito grande. Por isso é importante saber escolher qual estrutura usar dependendo do problema que você tem que resolver.
+---  
 
-# Estruturas de dados não lineares
+# Estruturas de Dados Não Lineares  
 
-Estruturas de dados não lineares são formas de organizar as informações de um jeito que não seguem uma ordem simples tipo uma lista, nelas um item pode estar ligado a vários outros formando uma hierarquia. Isso da mais opções para organizar e acessar os dados mas também pode ser mais difícil de usar e vai exigir mais memória e tempo para processar.
+As **estruturas de dados não lineares** organizam os dados de forma mais **complexa**, sem seguir uma **sequência fixa** como nas estruturas lineares.  
 
-Um exemplo disso são as árvores onde cada elemento pode ter vários "filhos" e os gráficos que podem ligar qualquer elemento a outro, outras estruturas como heaps( ele organiza os dados colocando o maior valor ou o menor no topo e assim você tem mais facilidade de acessar esse valor com agilidade) e tabelas de hash(usa uma chave única como se fosse um código único para você ter mais facilidade de acessar o dado na lista sem ter que ficar procurando por ela) também são desse tipo. No geral elas são muito boas, mas não são tão fáceis de usar quanto as estruturas lineares como listas ou filas.
+Nelas, um item pode estar **ligado a vários outros**, formando uma **hierarquia** ou uma **rede de conexões**. Isso permite mais **flexibilidade** no armazenamento e no acesso aos dados, mas também pode **exigir mais memória e processamento**.  
 
-**fonte**: https://pt.linkedin.com/advice/0/what-difference-between-linear-non-linear-data-ejwie?lang=pt&lang=pt
+## 📌 Exemplos de Estruturas Não Lineares  
+
+- **Árvores** 🌳: Cada elemento pode ter **vários "filhos"**, formando uma estrutura **hierárquica**, como uma **árvore genealógica**.  
+- **Grafos** 🔗: Permitem a conexão de **qualquer elemento com qualquer outro**, sendo muito usados em **redes sociais e mapas**.  
+- **Heaps** ⚖️: Estruturas que mantêm o **maior** ou **menor valor no topo**, facilitando o **acesso rápido a esses valores**.  
+- **Tabelas Hash** 🔑: Utilizam uma **chave única** para armazenar dados, permitindo **buscas rápidas** sem precisar percorrer toda a estrutura.  
+
+### 🛑 Desafios das Estruturas Não Lineares  
+- **Mais difíceis de implementar** do que listas ou filas.  
+- **Consomem mais memória** devido às conexões entre os elementos.  
+- **Podem exigir mais tempo de processamento** dependendo da operação.  
+
+Apesar dos desafios, essas estruturas são **essenciais** para resolver problemas complexos e são amplamente utilizadas em **inteligência artificial, bancos de dados e sistemas de busca**.  
+
+
+***Fonte***: https://pt.linkedin.com/advice/0/what-difference-between-linear-non-linear-data-ejwie?lang=pt&lang=pt
