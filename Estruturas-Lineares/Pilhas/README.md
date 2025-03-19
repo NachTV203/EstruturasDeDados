@@ -8,7 +8,6 @@ Um exemplo que vemos no dia a dia, que utiliza **pilhas** para seu funcionamento
 
 # Referencias 
 
-**Amoasei, Juliana. Estruturas de dados: Uma introdução. Alura, 2023. Disponível em:**  https://www.alura.com.br/artigos/estruturas-de-dados-introducao?srsltid=AfmBOop341GTyCQCyroXMfhLwsCBOyrM5lXFt4nn31gW3NjIC_FwOdBu#pilha. Acesso em: 18 de setembro de 2025
-
-**CARVALHO, Thiago Leite e . Estruturas de Dados: Domine as práticas essenciais em C, Java, C#, Python e JavaScript . Vivian Matsui. São Paulo: AOVS Sistemas de Infórmatica, 2023.**
+***Amoasei, Juliana. Estruturas de dados: Uma introdução. Alura, 2023. Disponível em:***  https://www.alura.com.br/artigos/estruturas-de-dados-introducao?srsltid=AfmBOop341GTyCQCyroXMfhLwsCBOyrM5lXFt4nn31gW3NjIC_FwOdBu#pilha. Acesso em: 18 de setembro de 2025
+***CARVALHO, Thiago Leite e . Estruturas de Dados: Domine as práticas essenciais em C, Java, C#, Python e JavaScript . Vivian Matsui. São Paulo: AOVS Sistemas de Infórmatica, 2023.***
 
