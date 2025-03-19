@@ -16,5 +16,5 @@ A **alocação estática** ocorre em dois casos principais:
 Variáveis **globais** ou **estáticas** são geralmente alocadas na **seção de dados (Data Segment)** da memória do programa.
 
 
-***Fonte: Universidade Federal do paraná,*** https://www.inf.ufpr.br/hexsel/ci067/10_aloc.html 
+🔹***Fonte: Universidade Federal do paraná,*** https://www.inf.ufpr.br/hexsel/ci067/10_aloc.html 
 
