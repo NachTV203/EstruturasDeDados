@@ -7,9 +7,11 @@ def criar_lista_dinamica(n):
         
     return lista_dinamica
 
-# Tempo de execução (Runtime)
+#Tempo de execução (Runtime)
 n = int(input("Digite o número de elementos: "))
 minha_lista = criar_lista_dinamica(n)
 
-# Tempo de compilação (Compile Time)
+#Tempo de compilação (Compile Time)
 print("Tamanho da lista:", len(minha_lista))
+
+#Codigo criado utilizando a ide Cursor Ai
