@@ -44,3 +44,5 @@ Ao final da disciplina, esperamos ser capazes de criar novas estruturas de dados
 **Universidade de Brasília (UNB):** https://sae.unb.br/cae/conteudo/unbfga/cb/new_alocacaodinamica.html
 
 **linkedin:** https://pt.linkedin.com/advice/0/what-difference-between-linear-non-linear-data-ejwie?lang=pt&lang=pt
+
+**Amoasei, Juliana. Estruturas de dados: Uma introdução. Alura, 2023. Disponível em:** https://www.alura.com.br/artigos/estruturas-de-dados-introducao?srsltid=AfmBOop341GTyCQCyroXMfhLwsCBOyrM5lXFt4nn31gW3NjIC_FwOdBu#pilha.
