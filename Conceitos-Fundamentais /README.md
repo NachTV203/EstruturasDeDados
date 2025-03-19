@@ -1,4 +1,4 @@
-# ConceitosFundamentais
+# Conceitos Fundamentais
 
 A alocação de ***memória*** é um conceito essencial em programação e pode ser dividida em dois tipos principais: alocação estática e alocação dinâmica.
 ***Alocação Estática***: A memória é alocada durante a compilação do programa e tem um tamanho fixo. Não pode ser modificada durante a execução. Exemplos incluem variáveis locais e arrays de tamanho fixo. 
