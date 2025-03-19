@@ -19,4 +19,4 @@ A própria lista funciona como um **contêiner** que mantém os **endereços de 
 
 Isso significa que **modificar um item da lista** não altera os outros elementos. No entanto, se o **objeto referenciado for mutável**, como outra lista ou um dicionário, a modificação pode impactar o conteúdo desse objeto.  
 
-***Fonte:*** https://www.geeksforgeeks.org/python-lists/
+🔹***Fonte:*** https://www.geeksforgeeks.org/python-lists/
