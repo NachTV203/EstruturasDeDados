@@ -10,6 +10,6 @@ Nesta pasta do diretório, iremos abordar os diferentes **tipos de organização
 Cada uma dessas estruturas possui regras específicas para armazenamento e manipulação dos dados, sendo fundamentais para a otimização de algoritmos e o gerenciamento eficiente da memória.  
 
 
-# Fontes
+### 🔹Fontes
 
 **UFSM:** https://www.ufsm.br/pet/sistemas-de-informacao/2020/04/01/entendendo-listas-pilhas-e-filas
