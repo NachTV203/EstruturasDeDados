@@ -1,4 +1,4 @@
-# 🔷Trabalho Estruturas de Dados 1
+# Trabalho Estruturas de Dados 1
 
 # 🔹Alunos responsáveis:
 
