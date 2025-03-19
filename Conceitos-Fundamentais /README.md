@@ -17,4 +17,4 @@ A memória é **alocada em tempo de execução**, permitindo que seu **tamanho s
 - **Árvores binárias**
 
 
-Fonte: GeeksforGeeks - Alocação Estática, https://www.geeksforgeeks.org/what-is-dynamic-memory-allocation/
+🔹***Fonte: GeeksforGeeks - Alocação Estática,*** https://www.geeksforgeeks.org/what-is-dynamic-memory-allocation/
