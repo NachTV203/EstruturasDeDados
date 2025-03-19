@@ -2,21 +2,21 @@
 
 # Alunos responsáveis:
 
-**Ana Beatryz Nogueira Santos**
+- **Ana Beatryz Nogueira Santos**
 
-**Beatriz Nevis Miranda**
+- **Beatriz Nevis Miranda**
 
-**Bernardo Lusardo da Silva Mesquita**
+- **Bernardo Lusardo da Silva Mesquita**
 
-**Jaiza Michelle Moreira de Carvalho**
+- **Jaiza Michelle Moreira de Carvalho**
 
-**Kaynã Barbosa de Miranda**
+- **Kaynã Barbosa de Miranda**
 
-**Rafael Junio Azevedo Souza**
+- **Rafael Junio Azevedo Souza**
 
-**Sammuel Heythor Rodrigues dos Santos**
+- **Sammuel Heythor Rodrigues dos Santos**
 
-**Victor Alves Moreira**
+- **Victor Alves Moreira**
 
 
 # Introdução
