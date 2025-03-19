@@ -5,6 +5,9 @@ Os itens de uma lista podem ser acessados diretamente pelo seu índice, começan
 
 Em Python, as listas não armazenam os valores diretamente dentro de sua estrutura. 
 Em vez disso, elas contêm referências (ponteiros) que apontam para os objetos reais na memória.
+![image](https://github.com/user-attachments/assets/16b4e617-2f54-4821-ab55-d5b91eae48b8)
+
 A própria lista funciona como um contêiner que mantém os endereços de memória dos elementos armazenados. Por exemplo, ao criar uma lista contendo 10, 20, "GfG", 40 e True, o Python aloca esses valores separadamente na memória e armazena seus respectivos endereços dentro da lista.
 Isso significa que modificar um item da lista não altera os outros elementos. No entanto, se o objeto referenciado for mutável, como outra lista ou um dicionário, a modificação pode impactar o conteúdo desse objeto.
- **Fonte**:https://www.geeksforgeeks.org/python-lists/
+
+**Fonte**:https://www.geeksforgeeks.org/python-lists/
