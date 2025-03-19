@@ -30,7 +30,7 @@ Ao final da disciplina, esperamos ser capazes de **criar novas estruturas de dad
 Essa base é **essencial** para o desenvolvimento de **programas robustos e eficientes**, permitindo a construção de **soluções que atendam às demandas do mercado e da sociedade**.  
 
 
-# 🔹Fontes de pesquisa:
+# 🔹Fontes de Pesquisa:
 
 ***Alura:*** https://www.alura.com.br/artigos/estruturas-de-dados-introducao?srsltid=AfmBOopCKt1-D_aPiMoGlngXog9yZ6e0cH8NYARU2xcXDZ3hOak_iYve
 
