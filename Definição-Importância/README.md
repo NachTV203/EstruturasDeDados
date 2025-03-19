@@ -40,4 +40,4 @@ Nelas, um item pode estar **ligado a vários outros**, formando uma **hierarquia
 Apesar dos desafios, essas estruturas são **essenciais** para resolver problemas complexos e são amplamente utilizadas em **inteligência artificial, bancos de dados e sistemas de busca**.  
 
 
-***Fonte***: https://pt.linkedin.com/advice/0/what-difference-between-linear-non-linear-data-ejwie?lang=pt&lang=pt
+🔹***Fonte***: https://pt.linkedin.com/advice/0/what-difference-between-linear-non-linear-data-ejwie?lang=pt&lang=pt
