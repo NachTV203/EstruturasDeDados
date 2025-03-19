@@ -1,6 +1,6 @@
 # Trabalho Estruturas de Dados 1
 
-# Alunos responsáveis:
+# 🔻Alunos responsáveis:
 
 - **Ana Beatryz Nogueira Santos**
 
