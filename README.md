@@ -21,13 +21,14 @@
 
 # Introdução
 
-A disciplina de Estruturas de Dados tem como objetivo ensinar os alunos a entender, utilizar e criar diferentes estruturas de dados, fundamentais para o desenvolvimento de soluções computacionais eficientes. 
+A disciplina de **Estruturas de Dados** tem como objetivo ensinar os alunos a **entender, utilizar e criar diferentes estruturas de dados**, fundamentais para o desenvolvimento de **soluções computacionais eficientes**.  
 
-Com a familiarização da modelagem e implementação dessas estruturas durante o periodo do primeiro semestre de 2025, além dos algoritmos para gerenciamento, iremos aprender tambem levando em consideração aspectos de economia de memória e desempenho. 
+Com a **familiarização** da **modelagem** e **implementação** dessas estruturas durante o **primeiro semestre de 2025**, além do estudo de **algoritmos para gerenciamento**, iremos aprender também considerando aspectos de **economia de memória** e **desempenho**.  
 
-Ao final da disciplina, esperamos ser capazes de criar novas estruturas de dados, além de possuir conhecimento das estruturas básicas e de algoritmos clássicos para gerenciá-las ou resolver problemas específicos. 
+Ao final da disciplina, esperamos ser capazes de **criar novas estruturas de dados**, além de possuir conhecimento sobre as **estruturas básicas** e os **algoritmos clássicos** para gerenciá-las ou resolver problemas específicos.  
 
- Essa base é essencial para o desenvolvimento de programas de computador robustos e eficientes, permitindo a construção de soluções que atendam às demandas do mercado e da sociedade.
+Essa base é **essencial** para o desenvolvimento de **programas robustos e eficientes**, permitindo a construção de **soluções que atendam às demandas do mercado e da sociedade**.  
+
 
 # Fontes de pesquisa:
 
