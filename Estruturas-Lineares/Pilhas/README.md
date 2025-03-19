@@ -1,4 +1,4 @@
-# pilhas 
+# Pilhas 
 
 A **pilha** (do inglês stack) pode ser definida conceitualmente como empilhar elementos um em cima do outro. É uma estrutura linear, constituída de elementos que são ligados através de seu endereços de memória, sejam eles de forma contínua ou não, entretanto o padrão que definem de forma única o que é pilha é: **LIFO** (last in, first out): O último a entrar é o primeiro a sair; ou **FILO** (first in, last out): O primeiro a entrar é o último a sair.
 
