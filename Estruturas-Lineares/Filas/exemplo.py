@@ -23,7 +23,7 @@ print(f"Tamanho da fila: {len(fila)}")
 
 print("\nRemovendo elementos da fila:")
 
-primeiro = fila.pop(0)  # Remove e retorna o primeiro elemento
+primeiro = fila.pop(0)  #Remove e retorna o primeiro elemento
 print(f"Removeu: {primeiro}")
 
 segundo = fila.pop(0)
