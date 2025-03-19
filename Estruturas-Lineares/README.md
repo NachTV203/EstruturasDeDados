@@ -1,9 +1,13 @@
-# Entendendo Listas, Pilhas e Filas
+# Entendendo Listas, Pilhas e Filas  
 
-Nessa pasta do diretorio iremos falar e apresentar sobre os tipos de organização de dados e como são seus funcionamentos dentro da estrutura de dados.
+Nesta pasta do diretório, iremos abordar os diferentes **tipos de organização de dados** e como funcionam dentro da **estrutura de dados**.  
 
-Dentre os tipos de organizações que são feitos eles são
+## 📌 Principais tipos de organização de dados:  
+- **Listas**  
+- **Pilhas**  
+- **Filas**  
 
+Cada uma dessas estruturas possui regras específicas para armazenamento e manipulação dos dados, sendo fundamentais para a otimização de algoritmos e o gerenciamento eficiente da memória.  
 
 
 # Fontes
