@@ -18,3 +18,5 @@ Essas estruturas são bem fáceis de usar e ajudam bastante, mas elas têm algum
 Estruturas de dados não lineares são formas de organizar as informações de um jeito que não seguem uma ordem simples tipo uma lista, nelas um item pode estar ligado a vários outros formando uma hierarquia. Isso da mais opções para organizar e acessar os dados mas também pode ser mais difícil de usar e vai exigir mais memória e tempo para processar.
 
 Um exemplo disso são as árvores onde cada elemento pode ter vários "filhos" e os gráficos que podem ligar qualquer elemento a outro, outras estruturas como heaps( ele organiza os dados colocando o maior valor ou o menor no topo e assim você tem mais facilidade de acessar esse valor com agilidade) e tabelas de hash(usa uma chave única como se fosse um código único para você ter mais facilidade de acessar o dado na lista sem ter que ficar procurando por ela) também são desse tipo. No geral elas são muito boas, mas não são tão fáceis de usar quanto as estruturas lineares como listas ou filas.
+
+**fonte**: https://pt.linkedin.com/advice/0/what-difference-between-linear-non-linear-data-ejwie?lang=pt&lang=pt
