@@ -1,6 +1,6 @@
 # Trabalho Estruturas de Dados 1
 
-# Alunos responsáveis:
+# 🔹Alunos responsáveis:
 
 - **Ana Beatryz Nogueira Santos**
 
@@ -19,7 +19,7 @@
 - **Victor Alves Moreira**
 
 
-# Introdução
+# 🔹Introdução
 
 A disciplina de **Estruturas de Dados** tem como objetivo ensinar os alunos a **entender, utilizar e criar diferentes estruturas de dados**, fundamentais para o desenvolvimento de **soluções computacionais eficientes**.  
 
@@ -30,7 +30,7 @@ Ao final da disciplina, esperamos ser capazes de **criar novas estruturas de dad
 Essa base é **essencial** para o desenvolvimento de **programas robustos e eficientes**, permitindo a construção de **soluções que atendam às demandas do mercado e da sociedade**.  
 
 
-# Fontes de pesquisa:
+# 🔹Fontes de Pesquisa:
 
 ***Alura:*** https://www.alura.com.br/artigos/estruturas-de-dados-introducao?srsltid=AfmBOopCKt1-D_aPiMoGlngXog9yZ6e0cH8NYARU2xcXDZ3hOak_iYve
 
