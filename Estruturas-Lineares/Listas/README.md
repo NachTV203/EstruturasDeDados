@@ -1,4 +1,4 @@
-**Listas**
+# Listas
 Em Python, uma lista é uma estrutura de dados integrada com tamanho dinâmico, capaz de expandir ou reduzir automaticamente conforme necessário. Ela pode armazenar elementos de diferentes tipos, incluindo outras listas, pois, na prática, armazena referências em locais contíguos, enquanto os valores reais podem estar espalhados em diferentes posições na memória.  
 As listas permitem a presença de elementos repetidos e são **mutáveis**, ou seja, podem ser alteradas, seja para modificar, substituir ou remover itens. Além disso, são **estruturas ordenadas**, preservando a sequência em que os elementos foram adicionados.  
 Os itens de uma lista podem ser acessados diretamente pelo seu índice, começando da posição `0`.
