@@ -29,7 +29,7 @@ Ao final da disciplina, esperamos ser capazes de **criar novas estruturas de dad
 
 Essa base é **essencial** para o desenvolvimento de **programas robustos e eficientes**, permitindo a construção de **soluções que atendam às demandas do mercado e da sociedade**.  
 
-## 🔹Notas dos Alunos
+## 🔹Projeto Notas dos Alunos
 
 Este código implementa uma aplicação gráfica utilizando a biblioteca **Tkinter** para gerenciar e processar as notas de alunos em uma **fila**. A interface permite que os usuários insiram os **nomes** e **notas** de dois exames de cada aluno e, em seguida, processem esses dados para calcular a **média** e a **situação** do aluno (Aprovado, Em Recuperação, ou Reprovado). A aplicação utiliza a estrutura de dados **deque** (fila dupla) para armazenar e processar os alunos, garantindo que os alunos sejam atendidos na ordem em que foram adicionados à fila.
 
