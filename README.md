@@ -29,6 +29,17 @@ Ao final da disciplina, esperamos ser capazes de **criar novas estruturas de dad
 
 Essa base é **essencial** para o desenvolvimento de **programas robustos e eficientes**, permitindo a construção de **soluções que atendam às demandas do mercado e da sociedade**.  
 
+## 🔹Notas dos Alunos
+
+Este código implementa uma aplicação gráfica utilizando a biblioteca **Tkinter** para gerenciar e processar as notas de alunos em uma **fila**. A interface permite que os usuários insiram os **nomes** e **notas** de dois exames de cada aluno e, em seguida, processem esses dados para calcular a **média** e a **situação** do aluno (Aprovado, Em Recuperação, ou Reprovado). A aplicação utiliza a estrutura de dados **deque** (fila dupla) para armazenar e processar os alunos, garantindo que os alunos sejam atendidos na ordem em que foram adicionados à fila.
+
+### 🔹Funcionalidades:
+1. **Adicionar à Fila**: Permite inserir o nome e as notas de um aluno na fila.
+2. **Processar Primeiro**: Processa o primeiro aluno na fila, calcula a média, determina a situação do aluno e exibe os resultados em uma **tabela (TreeView)**.
+3. **Exibição de Resultados**: A tabela exibe os dados de cada aluno, incluindo nome, notas, média e a situação do aluno.
+
+A interface gráfica é simples e interativa, fornecendo uma visão clara e fácil de usar para quem deseja adicionar e processar alunos em uma fila de forma eficiente. A fila é implementada com a ajuda da estrutura **deque** da biblioteca `collections`, que otimiza o processo de adicionar e remover elementos da fila.
+
 
 # 🔹Fontes de Pesquisa:
 
